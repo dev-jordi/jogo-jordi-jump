@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.game-board{
+    width: 50%;
+    height: 500px;
+    border: 2px solid black;
+    border-bottom: 15px solid rgb(110, 103, 4);
+    margin: 0 auto;
+    position: relative;
+    overflow: hidden;
+    background: linear-gradient(#87CEEB,#e0e0e0) ;
+}
+
+.box {
+    position: absolute;
+    bottom: 0;
+    width: 80px;
+    animation: box-animation 2s infinite linear;
+}
+
+.jordi {
+    width: 100px;
+    position: absolute;
+    bottom: 0px;
+    left: 20px
+    
+}
+
+.jump {
+    animation: jump 600ms ease-out;
+}
+
+@keyframes box-animation {
+    from {
+        right: -80px;
+    }
+    to {
+        right: 100%;
+    }
+}
+
+@keyframes jump {
+
+    0% {
+        bottom: 0;
+    }
+    40% {
+        bottom: 165px;
+    }
+    50% {
+        bottom: 165px;
+    }
+    60% {
+        bottom: 165px;
+    }
+    100% {
+        bottom: 0;
+    }
+}
+
