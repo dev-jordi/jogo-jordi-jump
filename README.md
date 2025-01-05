@@ -140,7 +140,7 @@ document.addEventListener('keydown', jump);
 - 🛑 Implementar uma tela inicial e opções de reinício.
 
 ## 👤 Autor
-- **Jordi** - [Jordi Branger][(dev-jordi.github.io/lab)](https://dev-jordi.github.io/lab/)
-
+- **Jordi** - [Jordi Branger](https://dev-jordi.github.io/lab/)
+  
 ---
 🎉 Divirta-se jogando e compartilhe suas sugestões!
