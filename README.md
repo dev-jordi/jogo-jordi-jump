@@ -1,4 +1,4 @@
-# 🎮 Jogo: Jordi Live
+# 🎮 Jogo: Jordi Jump
 
 ## 📝 Descrição
 Este é um jogo simples desenvolvido em **HTML**, **CSS** e **JavaScript**, onde o jogador controla o personagem "Jordi" para desviar de obstáculos. O objetivo é evitar colisões enquanto acumula pontos.
@@ -137,7 +137,7 @@ document.addEventListener('keydown', jump);
 ## 🚀 Melhorias Futuras
 - ➕ Adicionar sistema de pontuação.
 - 📈 Incrementar níveis de dificuldade.
-- 🛑 Implementar uma tela inicial e opções de reinício.
+- 🛑 Implementar uma tela inicial e opções de retry.
 
 ## 👤 Autor
 - **Jordi** - [Jordi Branger](https://dev-jordi.github.io/lab/)
