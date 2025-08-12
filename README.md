@@ -141,6 +141,3 @@ document.addEventListener('keydown', jump);
 
 ## 👤 Autor
 - **Jordi** - [Jordi Branger](https://dev-jordi.github.io/lab/)
-  
----
-🎉 Divirta-se jogando e compartilhe suas sugestões!
