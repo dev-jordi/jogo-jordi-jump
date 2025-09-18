@@ -139,5 +139,3 @@ document.addEventListener('keydown', jump);
 - 📈 Incrementar níveis de dificuldade.
 - 🛑 Implementar uma tela inicial e opções de retry.
 
-## 👤 Autor
-- **Jordi** - [Jordi Branger](https://dev-jordi.github.io/lab/)
